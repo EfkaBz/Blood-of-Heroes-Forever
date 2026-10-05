@@ -1,0 +1,12 @@
+## Interface: 11508, 11509, 11601, 16001
+## Title: Blood of Heroes (Forever)
+## Notes: Shows Blood of Heroes spawn points on the map (Eastern/Western Plaguelands). No dependencies.
+## Notes-frFR: Affiche les points de spawn de Blood of Heroes sur la carte (Maleterres de l'Est/Ouest). Ne depend d'aucun autre addon.
+## Author: Daeler
+## Version: 1.0.1
+## Category: Daeler Addons
+## DefaultState: enabled
+## IconTexture: Interface\AddOns\Blood_of_Heroes_Forever\Media\icon_blood_of_heroes_forever.png
+## SavedVariables: BloodOfHeroesForeverEnabled, BloodOfHeroesForeverPinSize
+
+Blood_of_Heroes_Forever.lua
